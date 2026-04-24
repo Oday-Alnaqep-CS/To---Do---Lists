@@ -11,11 +11,12 @@ Inspired by the **Communication Skills** lectures at **Taiz University** under t
 
 ---
 
+
 ## 📸 Visual Identity
 
 <p align="center">
-  <img src="photo_2026-04-24_22-59-20.jpg" width="48%" alt="Dashboard Overview" />
-  <img src="photo_2026-04-24_22-58-53.jpg" width="48%" alt="Task Logic Implementation" />
+  <img src="To - Do - Lists/photo_2026-04-24_22-59-20.jpg" width="48%" alt="Dashboard Overview" />
+  <img src="To - Do - Lists/photo_2026-04-24_22-58-53.jpg" width="48%" alt="Task Logic Implementation" />
 </p>
 
 ---
